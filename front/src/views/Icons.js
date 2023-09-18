@@ -28,11 +28,13 @@ function Icons() {
           <Col md="12">
             <Card>
               <CardHeader>
-                <h5 className="title">100 Awesome Nucleo Icons</h5>
+                <h1 className="title">Username</h1>
                 <p className="category">
-                  Handcrafted by our friends from{" "}
-                  <a href="https://nucleoapp.com/?ref=1712">NucleoApp</a>
+                  Click picture that you want. <br /> You will hear the story of
+                  that moment.
                 </p>
+                <button>Feed</button>
+                <button>Calendar</button>
               </CardHeader>
               <CardBody className="all-icons">
                 <Row>
